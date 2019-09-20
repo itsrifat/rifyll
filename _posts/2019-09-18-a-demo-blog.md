@@ -2,7 +2,7 @@
 layout: post
 tags: machine-learning python numpy scikit-learn
 date: 2019-09-18 13:06
-thumbnail: http://placehold.it/100x100
+thumbnail: https://png.icons8.com/color/1600/github
 title: A Demo blog
 published: true
 ---
