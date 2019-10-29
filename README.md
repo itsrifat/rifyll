@@ -5,7 +5,7 @@ A simple blog template for <a href="http://jekyllrb.com" target="_blank">Jekyll<
 Uses:
 * Twitter Bootstrap 3.2.0
 * Font Awesome 4.2.0
-
+![Image](https://github.com/merrylin77/blog.io/blob/master/_image/view_Fotor.jpg)
 
 Here is a <a href="http://itsrifat.github.io/rifyll/" target="_blank">Demo</a>
 
